@@ -48,8 +48,8 @@ Python 3.11
 Jupyter Notebook
 Visual Studio
 Features: 
-# Requirement 1: Loading two data sources 
-# Requirement 2 = Clean and operate on the data while combining them.
+### Requirement 1: Loading two data sources 
+### Requirement 2 = Clean and operate on the data while combining them.
   * I am going to look at the datasets by looking at shape, info, describing, 
   and the head. 
-  # Requirement 3 = Creating Visualizations
+  ### Requirement 3 = Creating Visualizations
