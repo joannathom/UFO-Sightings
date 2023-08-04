@@ -42,12 +42,12 @@ import pathlib
 import matplotlib
 To work with python data you will need to install these:
 
-Gitbash or a Shell Terminal
-Pandas as pd
-Python 3.11
-Jupyter Notebook
-Visual Studio
-Tableau Public
+* Gitbash or a Shell Terminal
+* Pandas as pd
+* Python 3.11
+* Jupyter Notebook
+* Visual Studio
+* Tableau Public
 
 Features: 
 ### Requirement 1: Loading two data sources 
