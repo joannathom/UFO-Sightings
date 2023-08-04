@@ -53,3 +53,5 @@ Features:
   * I am going to look at the datasets by looking at shape, info, describing, 
   and the head. 
   ### Requirement 3: Creating Visualizations
+  * Created Visualizations with Tableau Public which is free. CSV data sets will be needed
+    for information to pull into different visual charts. 
