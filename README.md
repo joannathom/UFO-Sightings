@@ -47,6 +47,8 @@ Pandas as pd
 Python 3.11
 Jupyter Notebook
 Visual Studio
+Tableau Public
+
 Features: 
 ### Requirement 1: Loading two data sources 
 ### Requirement 2: Clean and operate on the data while combining them.
