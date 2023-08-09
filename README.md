@@ -75,13 +75,14 @@ Features:
 `import pandas as pd`
 `UFODATA = pd.read_csv('ufo_sightings.csv')`
 `NUFORC = pd.read_csv('nuforc_events.csv')`
-### Requirement 2: Clean and operate on the data while combining them.
+### Requirement 2: Analyze Data Sets
+### Requirement 3: Clean and operate on the data while combining them.
   * I am going to look at the datasets by looking at shape, info, describing, 
   and the head. 
-  ### Requirement 3: Creating Visualizations
-  * Created Visualizations with Tableau Public which is free. CSV data sets will be needed
+  ### Requirement 4: Creating Visualizations
+  * Created Visualizations with sns and maplotlib and use Tableau. Tableau Public which is free with an account setup. CSV data sets will be needed
     for information to pull into different visual charts. 
-  ### Requirement 4: 
+  ### Requirement 5: Added README.md with information about the project and commands for running the program.
 
-  ### Requirement 5:
+ 
  
