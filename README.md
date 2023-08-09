@@ -15,7 +15,7 @@ My mission for this project is to make the public more aware of unidentified fly
 I am hoping that my research can give an overall view of stats on UFOs and if there are areas that are more frequently seen than other locations
 around the world. The US and Alaska are the main two areas that my datasets have shown the most research.
 
-![image](![Alt text](<Visual #4 Country Mostly Sighted.png>))
+![image]((<Visual #4 Country Mostly Sighted.png>))
 
 
 * Credit for research data is:
