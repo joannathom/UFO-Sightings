@@ -28,7 +28,7 @@ NUFORC = pd.read_csv('nuforc_events.csv')
 
 `Source venv/bin/activate` for for Mac Computers
 
-##Use this code to set up the requirements file:
+## Use this code to set up the requirements file:
 * pip may need to be upgraded follow instruction that are given
 
 `pip freeze > requirements.txt`
