@@ -58,13 +58,16 @@ Use Pip to install the following in Gitbash or what ever Shell Terminal is being
 import pandas as pd
 import numpy as np
 import pathlib
-import matplotlib install these:
+import matplotlib 
+install these:
 
 * Gitbash or a Shell Terminal
 * Pandas as pd
 * Python 3.11
-* Jupyter Notebook
-* Visual Studio
+* Pip install Jupyter Notebook- this will be needed to run with Visual Studio to establish the kernel once
+  installed type in Juypter Notebook and then give it a few seconds to load in a url. Do make sure you click on trusted
+  in Jupyter Notebook in main project file.
+* Download Visual Studio = Make sure venvpython3 is running the virtual environment.
 * Tableau Public- You might need to create a user account to login into Tableau
 
 Features: 
